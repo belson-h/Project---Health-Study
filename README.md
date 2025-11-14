@@ -21,6 +21,10 @@ GitHub-brancher: `del1` – Del 1, `del2` – Del 2 (ej påbörjad)
 ## Analys i Del 2
 Ej påbörjad
 
+## Python-version
+- Python 3.13.7 (rekommenderas)  
+- Viktiga bibliotek: `numpy`, `pandas`, `matplotlib`, `scipy`
+
 ## Hur man kör notebooken
 1. Klona repository:  
    ```bash
