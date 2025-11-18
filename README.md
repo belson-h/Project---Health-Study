@@ -7,7 +7,7 @@ Datasetet innehåller information om deltagarnas ålder, kön, vikt, längd, blo
 
 ## Projektstruktur
 - `health_study_dataset.csv` – Dataset med deltagardata  
-- `notebook_del1.ipynb` – Jupyter Notebook för del 1 (grundläggande analys och statistik) 
+- `study_report.ipynb` – Jupyter Notebook för del 1 (grundläggande analys och statistik) 
 
 GitHub-brancher: `del1` – Del 1, `del2` – Del 2 (ej påbörjad)
 
@@ -30,5 +30,5 @@ Ej påbörjad
    ```bash
    git clone https://github.com/belson-h/Project---Health-Study.git
 2. Installera nödvändiga Python-paket: `pip install -r requirements.txt`
-3. Öppna ´study_report.ipynb´ i Jupyter Notebook.
+3. Öppna `study_report.ipynb` i Jupyter Notebook.
 4. Kör alla celler för att reproducera analys och visualiseringar.
