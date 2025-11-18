@@ -9,7 +9,7 @@ Datasetet innehåller information om deltagarnas ålder, kön, vikt, längd, blo
 - `health_study_dataset.csv` – Dataset med deltagardata  
 - `study_report.ipynb` – Jupyter Notebook för del 1 (grundläggande analys och statistik) 
 
-GitHub-brancher: `del1` – Del 1, `del2` – Del 2 (ej påbörjad)
+GitHub-brancher: `del1` – Del 1, `del2` – Del 2
 
 ## Analys i Del 1
 - Beskrivande statistik: medel, median, min och max för numeriska variabler  
@@ -19,11 +19,11 @@ GitHub-brancher: `del1` – Del 1, `del2` – Del 2 (ej påbörjad)
 - Hypotesprövning: rökare vs. icke-rökare  
 
 ## Analys i Del 2
-Ej påbörjad
+Påbörjad
 
 ## Python-version
 - Python 3.13.7 (rekommenderas)  
-- Viktiga bibliotek: `numpy`, `pandas`, `matplotlib`, `scipy`
+- Viktiga bibliotek: `numpy`, `pandas`, `matplotlib`, `scipy`, `sklearn`
 
 ## Hur man kör notebooken
 1. Klona repository:  
