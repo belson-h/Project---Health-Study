@@ -13,7 +13,7 @@ GitHub-brancher: `del1` – Del 1, `del2` – Del 2 (ej påbörjad)
 
 ## Analys i Del 1
 - Beskrivande statistik: medel, median, min och max för numeriska variabler  
-- Visualiseringar: histogram, boxplot, stapeldiagram  
+- Visualiseringar: Översikt över rökning, blodtryck och vikt 
 - Simulering: slumpade sjukdomsfall med numpy.random  
 - Konfidensintervall för medelvärde av systoliskt blodtryck  
 - Hypotesprövning: rökare vs. icke-rökare  
@@ -29,5 +29,6 @@ Ej påbörjad
 1. Klona repository:  
    ```bash
    git clone https://github.com/belson-h/Project---Health-Study.git
-2. Öppna notebook_del1.ipynb i Jupyter Notebook.
-3. Kör alla celler för att reproducera analys och visualiseringar.
+2. Installera nödvändiga Python-paket: `pip install -r requirements.txt`
+3. Öppna ´study_report.ipynb´ i Jupyter Notebook.
+4. Kör alla celler för att reproducera analys och visualiseringar.
