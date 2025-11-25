@@ -21,7 +21,7 @@ GitHub-brancher: `main` - Slutrapport, `del1` - Del 1, `del2` - Del 2
 ## Analys i Del 2
 *Bygger på del 1*:
 - Ny struktur: funktioner och moduler
-- Utökad analys: individer med sjukdom (per kön)
+- Utökad analys: individer med sjukdom och slumpade sjukdomsfall per kön
 - Blodtrycksprognos: enkel och multipel regression baserat på ålder och vikt
 - Principle Component Analysis (PCA) på numeriska variablar
 
