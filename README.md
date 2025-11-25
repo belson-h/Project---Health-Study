@@ -7,23 +7,27 @@ Datasetet innehåller information om deltagarnas ålder, kön, vikt, längd, blo
 
 ## Projektstruktur
 - `health_study_dataset.csv` – Dataset med deltagardata  
-- `study_report.ipynb` – Jupyter Notebook för del 1 (grundläggande analys och statistik) 
+- `study_report.ipynb` – Jupyter Notebook  
 
-GitHub-brancher: `del1` – Del 1, `del2` – Del 2
+GitHub-brancher: `main` - Slutrapport, `del1` - Del 1, `del2` - Del 2
 
 ## Analys i Del 1
 - Beskrivande statistik: medel, median, min och max för numeriska variabler  
-- Visualiseringar: Översikt över rökning, blodtryck och vikt 
+- Visualiseringar: översikt över rökning, blodtryck och vikt 
 - Simulering: slumpade sjukdomsfall med numpy.random  
 - Konfidensintervall för medelvärde av systoliskt blodtryck  
 - Hypotesprövning: rökare vs. icke-rökare  
 
 ## Analys i Del 2
-Påbörjad
+*Bygger på del 1*:
+- Ny struktur: funktioner och moduler
+- Utökad analys: individer med sjukdom (per kön)
+- Blodtrycksprognos: enkel och multipel regression baserat på ålder och vikt
+- Principle Component Analysis (PCA) på numeriska variablar
 
 ## Python-version
 - Python 3.13.7 (rekommenderas)  
-- Viktiga bibliotek: `numpy`, `pandas`, `matplotlib`, `scipy`, `sklearn`
+- Viktiga bibliotek: `numpy`, `pandas`, `matplotlib`, `scipy`, `sklearn`, `statsmodels`
 
 ## Hur man kör notebooken
 1. Klona repository:  
