@@ -7,7 +7,8 @@ Datasetet innehåller information om deltagarnas ålder, kön, vikt, längd, blo
 
 ## Projektstruktur
 - `health_study_dataset.csv` – Dataset med deltagardata  
-- `study_report.ipynb` – Jupyter Notebook  
+- `study_report.ipynb` – Hälsorapport
+- `helpers.py`- Innehåller uträkningar som stödjer analysen
 
 GitHub-brancher: `main` - Slutrapport, `del1` - Del 1, `del2` - Del 2
 
@@ -20,7 +21,7 @@ GitHub-brancher: `main` - Slutrapport, `del1` - Del 1, `del2` - Del 2
 
 ## Analys i Del 2
 *Bygger på del 1*:
-- Ny struktur: funktioner och moduler
+- Ny struktur: delar av den löpande koden flyttas in i klasser
 - Utökad analys: individer med sjukdom och slumpade sjukdomsfall per kön
 - Blodtrycksprognos: enkel och multipel regression baserat på ålder och vikt
 - Principle Component Analysis (PCA) på numeriska variablar
